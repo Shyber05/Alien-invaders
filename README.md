@@ -1,5 +1,5 @@
 # Alien-invaders
-This is my version of Alien invaders python game
+This is a version of Alien invaders python game using # pygame
 
 In the images folder there are multiple types of .bmp files that can be used for the ships/ aliens
 
