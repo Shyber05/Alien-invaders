@@ -11,7 +11,7 @@ class Alien(Sprite):
         self.screen = ai_game.screen
         self.settings = ai_game.settings
         
-        self.image = pg.image.load('images/alien_2.bmp')
+        self.image = pg.image.load('Images/alien_2.bmp')
         self.rect = self.image.get_rect()
 
         # This will set the start position for the alien fleet
