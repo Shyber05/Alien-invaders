@@ -14,7 +14,7 @@ class Ship(Sprite):
         self.screen_rect = ai_game.screen.get_rect()
 
         # Loads the ships image and gets its rectangle
-        self.image = pg.image.load("images/ufo-1.bmp")
+        self.image = pg.image.load("Images/ufo-1.bmp")
         self.rect = self.image.get_rect()
 
         #This will store the decimal value for the ship's position on the x and y axis
